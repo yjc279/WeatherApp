@@ -8,7 +8,7 @@ export default class Weather extends Component {
         return (
         <LinearGradient colors = {["#00C6Fb","#005BEA"]} style = {styles.container}>
             <View style = {styles.upper}>
-                <Ionicons color= "white" size={144} name="ios-rainy" />
+                <Ionicons color= "white" size={144} name="iosrainy" />
                 <Text style={styles.temp}>35</Text>
             </View>
             <View style={styles.lower}>
