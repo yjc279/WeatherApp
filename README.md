@@ -1,2 +1,2 @@
 # WeatherApp
-Weather app using React Native
+Weather app using React Native and weather API
